@@ -1,1 +1,5 @@
 # Bank-Data-Marketing-Stratagy-Analysis-_-Logistic-Regression
+
+This is Online Bank DataSet. Applied Logistic regression to check if the bank marketing strategy was successful or not.
+
+Note that interest rate indicates the 3-month interest rate between banks and duration indicates the time since the last contact was made with a given consumer. The previous variable shows whether the last marketing campaign was successful with this customer. The march and may are Boolean variables that account for when the call was made to the specific customer and credit shows if the customer has enough credit to avoid defaulting.
